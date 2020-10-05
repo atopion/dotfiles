@@ -4,7 +4,7 @@
 set -e
 
 # Download main repository
-git clone https://github.com/atopion/dotfiles.git ~/
+git clone https://github.com/atopion/dotfiles.git ~/dotfiles
 
 # Enter directory
 cd ~/dotfiles
